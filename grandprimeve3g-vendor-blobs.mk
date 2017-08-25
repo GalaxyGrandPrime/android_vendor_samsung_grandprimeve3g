@@ -21,6 +21,7 @@ PROPRIETARY_FILES := \
     lib/libAF.so \
     lib/libsft_af_ctrl.so \
     lib/libdeflicker.so \
+    lib/libdumpdata.so \
     lib/libynoise.so \
     lib/libspaf.so \
     lib/liblsc.so \
